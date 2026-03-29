@@ -2,6 +2,8 @@
 
 ## Movie Ticket Booking Through CMD
 
-Group Members- Sarvesh Pillai, Mayank Yadav, Neha Prajapati
+### Group Members- Sarvesh Pillai, Mayank Yadav, Neha Prajapati
 
-Professor - Radhika Bandaru
+### Professor - Radhika Bandaru
+
+
